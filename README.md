@@ -1,1 +1,1 @@
-Circuitos em linguagem C, simulando linguagens de programação de hardware.
+Some projects simulating hardware devices, such as a finite state machine and a 8:2 decoder.
